@@ -18,4 +18,4 @@ Feel free to  email me at: karimijacky123@gmail.com
 
 
 
-Would you like a version with instructions for cloning or contributing, in case you plan to make it public on GitHub?
+
